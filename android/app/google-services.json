@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083416805795",
+    "project_id": "tablet-70927",
+    "storage_bucket": "tablet-70927.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083416805795:android:8ba9f556d79e2ed67a5a16",
+        "android_client_info": {
+          "package_name": "com.tablet.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkhIvALBFua8jOQ0v5h1spIF3UCMPYPCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
